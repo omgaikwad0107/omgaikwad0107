@@ -18,9 +18,9 @@
   <a href="https://www.omgaikwad.in/">
     <img src="https://img.shields.io/badge/Portfolio-omgaikwad.in-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/omgaikwad/">
-    <img src="https://img.shields.io/badge/LinkedIn-Om%20Gaikwad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/om-gaikwad-g">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
   <a href="https://github.com/omgaikwad0107">
     <img src="https://img.shields.io/badge/GitHub-omgaikwad0107-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
